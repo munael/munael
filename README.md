@@ -1,14 +1,23 @@
 ### Hi there 👋
-### 🌐 whereami
-**2019**: Currently Applied Scientist at Microsoft Translator team
+## 🌐 whereami
+**2019--**: Currently Applied Scientist at Microsoft Translator team
 
-### 🍽 whatscooking
-#### Machine intelligence: fast and slow
+## Publications
+| Year | Title | Tags | Authors | Links |
+| - | - | - | - | - |
+| 2020 | Deep Diacritization: Efficient Hierarchical Recurrence for Improved Arabic Diacritization | `COLING/WANLP (2020)`; `Diacritization` | Badr AlKhamissi, **Muhammad N. ElNokrashy**, Mohamed Gabr | [arXiv](https://arxiv.org/abs/2011.00538), [code](https://github.com/BKHMSI/deep-diacritization) |
+| 2020 | - | `WMT (2020)`; `Low Resource` | TBP | - |
+
+## 🍽 whatscooking
+### Low resource learning
+* Meta learning
+* ...
+### Machine intelligence: fast and slow
 * Classical expert systems for games
 * Slow, lumbering modern machine learning systems
 * Combining both
 * Sequence/behavior modeling
-#### Programming language theory
+### Programming language theory
 * Adding refinement typing and logical typing to hobby language
 * Writing compiler of hobby language
 
