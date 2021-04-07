@@ -1,10 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
 ## 🌐 `whereami`
-### Disclaimer: _\*\*Nothing\*\* here is related to or represents the interests or opinions of any of my employers unless otherwise \*\*explicitly\*\* noted._
 
-* **2019--** : *Applied Scientist* at **Microsoft Translator** team.
+* **2019--** : *Applying Science* at the **Microsoft Translator** team.
 
-## Publications
+---
+### Disclaimer: _\*\*Nothing\*\* in my profile, repositories, commits, posts, or responses is related to or represents the interests or opinions of any of my employers unless otherwise \*\*explicitly\*\* noted._
+---
+
+## 📃 Publications
 | Year | Title | Tags | Authors | Links |
 | - | - | - | - | - |
 | 2021 | Adapting MARBERT for Improved Arabic Dialect Identification: Submission to the NADI 2021 Shared Task | `EACL`, `WANLP (2021)`; `Dialect Classification`; SOTA | Badr AlKhamissi, Mohamed Gabr, **Muhammad ElNokrashy**, Khaled Essam | [RG](https://www.researchgate.net/publication/349636312_Adapting_MARBERT_for_Improved_Arabic_Dialect_Identification_Submission_to_the_NADI_2021_Shared_Task) |
