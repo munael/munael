@@ -2,7 +2,8 @@
 
 ## 🌐 `whereami`
 
-* **2019--** : *Applying Science* at the **Microsoft Translator** team.
+* **2025--** : Leading ML R&D at EnergyAI Berlin.
+* **2019--2025** : *Applying Science* at the **Microsoft Translator** team.
 
 ---
 ### Disclaimer: _\*\*Nothing\*\* in my profile, repositories, commits, posts, or responses is related to or represents the interests or opinions of any of my employers unless otherwise \*\*explicitly\*\* noted._
